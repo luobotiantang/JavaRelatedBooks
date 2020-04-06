@@ -20,7 +20,7 @@
  
  - [改变设计工具](#改变设计工具)
  
- - [DieterRams所提出的10条优秀设计原则](#Dieter Rams所提出的10条优秀设计原则)
+ - [DieterRams所提出的10条优秀设计原则](#DieterRams所提出的10条优秀设计原则)
  
  - [网格应用相关数据](#网格应用相关数据)
  
@@ -119,7 +119,7 @@
      5、Dribbble（https://dribbble.com/）
      6、Sidebar.io（http://sidebar.io?）
  
- ### Dieter Rams所提出的10条优秀设计原则   
+ ### DieterRams所提出的10条优秀设计原则   
      https://www.vitsoe.com/rw/about/good-design 
      
  ### 网格应用相关数据
