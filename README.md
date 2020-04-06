@@ -62,7 +62,7 @@
 
   - [《Elasticsearch技术解析与实战》-在读中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/Elasticsearch.md)
   
-  - [《程序员的自我修养》-在读中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/ProgrammerSelfCultivation.md)
+  - [《程序员的自我修养》](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/ProgrammerSelfCultivation.md)
   
 ### 联系
 
