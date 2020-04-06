@@ -10,6 +10,12 @@
  
  - [优秀的程序员往往需要具备](#优秀的程序员往往需要具备)
  
+ - [程序员兼职网站](#程序员兼职网站)
+ 
+ - [学习编程的在线网站](#学习编程的在线网站)
+ 
+ - [推荐几本教孩子学编程的书](#推荐几本教孩子学编程的书)
+ 
  ### 练习Git
      推荐Try Git这个网站(https://try.github.io/),你能在这里根据它的教程练习Git命令，15分钟内，你就能够掌握那些最常用的基本命令
      了。
@@ -19,7 +25,7 @@
      《自学设计，你真的入门了吗？》
   
  ### 技术书籍
-     《代码大全》、EffectiveJava
+     《代码大全》、EffectiveJava、《学习编程从“玩”开始》
  
  ### 工具选择
      1、设计类工具
@@ -77,6 +83,19 @@
      6、谦逊的态度
      7、尊重每一个人
      8、敢于承担责任
-              
+ 
+ ### 程序员兼职网站
+     1、Coding码市（https://mart.coding.net/）
+     2、猪八戒网（http://www.zbj.com/）
+     3、Freelancer（https://www.freelancer.com/work/）   
+ 
+ ### 学习编程的在线网站
+     1、慕课网（http://www.imooc.com/course/list）
+     2、codecademy（https://www.codecademy.com/zh/）
+     3、网易云课堂（http://study.163.com/find.htm#/courselist?ct=7）
+ 
+ ### 推荐几本教孩子学编程的书
+     《Scratch少儿趣味编程》、《趣学JavaScript——教孩子学编程》、《父与子的编程之旅：与小卡特一起学Python》 
+     
 > reubenwang@foxmail.com
 > 没事别找我，找我也不在！--我很忙🦆
