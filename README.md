@@ -64,6 +64,8 @@
   
   - [《程序员的自我修养》](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/ProgrammerSelfCultivation.md)
   
+  - [《大话程序员:从入门到优秀全攻略》](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/BigTalkProgrammer.md)
+
 ### 联系
 
 > reubenwang@foxmail.com
