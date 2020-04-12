@@ -26,45 +26,45 @@
 
 ### 2019年读过的书
 
-  - [《Java8实战》](#待更)
+  - [《Java8实战》-待更]()
   
-  - [《深入理解Java虚拟机(第2版)》](#待更)
+  - [《深入理解Java虚拟机(第2版)》-待更]()
  
-  - [《Java多线程编程核心技术》](#待更)
+  - [《Java多线程编程核心技术》-待更]()
  
-  - [《Java并发编程的艺术》](#待更)
+  - [《Java并发编程的艺术》-待更]()
  
-  - [《Java并发编程之美》](#待更)
+  - [《Java并发编程之美》-待更]()
   
-  - [《码出高效Java开发手册》](#待更)
+  - [《码出高效Java开发手册》-待更]()
   
-  - [《Java深入解析:透析Java本质的36个话题》](#待更)
+  - [《Java深入解析:透析Java本质的36个话题》-待更]()
   
-  - [《大话设计模式》](#待更)
+  - [《大话设计模式》-待更]()
   
-  - [《设计模式(Java版)》](#待更)
+  - [《设计模式(Java版)》-待更]()
   
-  - [《设计模式之蝉(第2版)》](#待更)
+  - [《设计模式之蝉(第2版)》-待更]()
   
-  - [《深入浅出MySQL》](#待更)
+  - [《深入浅出MySQL》-待更]()
   
-  - [《Redis 5设计与源码分析》](#待更)
+  - [《Redis 5设计与源码分析》-待更]()
   
-  - [《RocketMQ实战与原理解析》](#待更)
+  - [《RocketMQ实战与原理解析》-待更]()
   
-  - [《我的第一本算法》](#待更)
+  - [《我的第一本算法》-待更]()
   
-  - [《编写高质量代码改善Java程序的151个建议》](#待更)
+  - [《编写高质量代码改善Java程序的151个建议》-待更]()
   
-  - [《MySQL技术内幕InnoDB存储引擎》](#待更)
+  - [《MySQL技术内幕InnoDB存储引擎》-待更]()
 
 ### 2020年读过的书
 
-  - [《Elasticsearch技术解析与实战》-在读中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/Elasticsearch.md)
+  - [《Elasticsearch技术解析与实战》-更新中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/Elasticsearch.md)
   
   - [《程序员的自我修养》](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/ProgrammerSelfCultivation.md)
   
-  - [《大话程序员:从入门到优秀全攻略》-在读中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/BigTalkProgrammer.md)
+  - [《大话程序员:从入门到优秀全攻略》-更新中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/BigTalkProgrammer.md)
 
 ### 联系
 
