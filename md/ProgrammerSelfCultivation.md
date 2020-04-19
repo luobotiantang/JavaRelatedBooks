@@ -138,27 +138,27 @@
      《秩序之美》    
  
  ### 专业技术社区
-     ◆　GitHub（https://github.com/）：全球最大的开发者平台，提供代码托管服务，开源产品或商业产品均可使用。对开发者来讲，这里基于各种
-        编程语言的开源类库、产品应有尽有，可谓一站在手，遍览天下代码。
-     ◆　Stack Overflow（https://stackoverflow.com/）：最专业的编程技术问答网站，你遇到的大部分问题，都可以在这里找到答案。◆　CSDN
-       （https://www.csdn.net/）：国内最大的专业IT技术社区，包罗万象，涵盖业界资讯、技术博客、技术论坛、在线课程等。我的技术博客写作是
-        从这里起步的。
-     ◆　SourceForge（https://sourceforge.net/）：历史悠久的开源软件平台，既有开源代码仓库，又有开源软件下载。我刚从事软件开发工作时，
-        常来这里寻宝。
-     ◆　CodeProject（https://www.codeproject.com/）：历史悠久的代码分享网站，原来主要是VC和Windows开发，现在已经包罗万象了。我刚从
-        事软件开发工作时，从这里下载过很多代码。
+     ◆　GitHub（https://github.com/）：全球最大的开发者平台，提供代码托管服务，开源产品或商业产品均可使用。对开发者来讲，这里基于
+        各种编程语言的开源类库、产品应有尽有，可谓一站在手，遍览天下代码。
+     ◆　Stack Overflow（https://stackoverflow.com/）：最专业的编程技术问答网站，你遇到的大部分问题，都可以在这里找到答案。
+     ◆　CSDNhttps://www.csdn.net/）：国内最大的专业IT技术社区，包罗万象，涵盖业界资讯、技术博客、技术论坛、在线课程等。我的技术博
+        客写作是从这里起步的。
+     ◆　SourceForge（https://sourceforge.net/）：历史悠久的开源软件平台，既有开源代码仓库，又有开源软件下载。我刚从事软件开发工
+        作时，常来这里寻宝。
+     ◆　CodeProject（https://www.codeproject.com/）：历史悠久的代码分享网站，原来主要是VC和Windows开发，现在已经包罗万象了。我
+        刚从事软件开发工作时，从这里下载过很多代码。
      ◆　51CTO（http://www.51cto.com/）：中国领先的IT技术网站，与CSDN类似，涵盖业界资讯、技术博客、在线课程等。
      ◆　InfoQ（https://www.infoq.com/）：极客邦旗下的综合性开发者社区，涵盖软件开发新闻、视频、图书等，它的迷你书非常不错。
      ◆　思否（https://segmentfault.com/）：综合性的IT技术网站，学习技能，解决问题。    
      ◆　博客园（https://www.cnblogs.com/）：开发者的网上家园，.NET方向的技术内容较多。
      ◆　中国电子网（http://www.21ic.com/）：电子工程师的首选网站，包括资讯、技术文章、各种元器件介绍、招聘信息等。
      ◆　电子发烧友（http://www.elecfans.com/）：电子工程师社区，包括资讯、电路图、电子技术资料等。
-     ◆　嵌入式Linux中文站（http://www.embeddedlinux.org.cn）：提供学习、讨论、研究嵌入式linux的平台，内容涵盖行业新闻、在线图书、技
-        术手册、技术方案、内核驱动、文件系统、图形界面以及新手入门导引等。
+     ◆　嵌入式Linux中文站（http://www.embeddedlinux.org.cn）：提供学习、讨论、研究嵌入式linux的平台，内容涵盖行业新闻、在线图书
+        、技术手册、技术方案、内核驱动、文件系统、图形界面以及新手入门导引等。
      ◆　嵌入式（https://www.embedded.com/）：英文版的嵌入式网站，可以看看。
      ◆　C114通信网（http://www.c114.com.cn/）：通信人的家园，涵盖各种通信行业的咨询、技术、产品等。
-     ◆　开源中国（https://www.oschina.net/）：综合性的IT技术社区，在这里可以浏览开源项目、技术新闻、问答求助、写博客，也可以托管代码、
-        交易项目、招聘求职等。
+     ◆　开源中国（https://www.oschina.net/）：综合性的IT技术社区，在这里可以浏览开源项目、技术新闻、问答求助、写博客，也可以托管代
+        码、交易项目、招聘求职等。
      ◆　掘金（https://juejin.im/）：新崛起的综合性技术社区，有付费产品“小册”，是图文形式的。
      ◆　开发者头条（https://toutiao.io/）：综合性技术社区，和“掘金”几乎同时出现。
      ◆　游资网（https://www.gameres.com/）：游戏开发者社区。
@@ -179,8 +179,8 @@
      ◆　硅谷密探（http://www.svinsight.com/）：报道最新的硅谷黑科技。
      ◆　hacker news（https://news.ycombinator.com/）：骇客新闻，只有英文版，可练习英文阅读。
      ◆　TechCrunch（https://techcrunch.com/）：创业公司和技术新闻，英文网站，可了解全球领先资讯，还可练习英文。
-     ◆　虎嗅（https://www.huxiu.com/）：一个用户可参与的商业资讯与观点交流平台，关注互联网与移动互联网一系列明星公司（包括公众公司与创
-       业型企业）。
+     ◆　虎嗅（https://www.huxiu.com/）：一个用户可参与的商业资讯与观点交流平台，关注互联网与移动互联网一系列明星公司（包括公众公司
+        与创业型企业）。
      ◆　36氪（https://36kr.com/）：提供覆盖全球一级市场的宏观数据分析、政策解读、行业预测、投融资分析等资讯。
      ◆　极客公园（http://www.geekpark.net/）：提供前沿科技的观察报道、业界一流的线下活动、众筹孵化等全方位的创业服务。
      ◆　TechWeb（http://www.techweb.com.cn/）：互联网消费资讯媒体。
@@ -196,20 +196,20 @@
      ◆　爱看图标网（http://www.iconpng.com/）：免费的中文图标搜索引擎。
      ◆　百度脑图（http://naotu.baidu.com/）：云端思维导图工具，免安装，易分享。
      ◆　ProcessOn（https://www.processon.com/）：免费在线制作图形，实时协作。支持流程图、思维导图、原型图、UML、网络拓扑等。
-     ◆　draw.io（https://www.draw.io/）：在线绘图工具，支持基本框图、流程图、UML图等，功能强大，堪称免费的Visio，有桌面版本。我目前
-        最常用的绘图工具，本书中超过一半的插图，是使用draw.io绘制的。
+     ◆　draw.io（https://www.draw.io/）：在线绘图工具，支持基本框图、流程图、UML图等，功能强大，堪称免费的Visio，有桌面版本。我
+        目前最常用的绘图工具，本书中超过一半的插图，是使用draw.io绘制的。
      ◆　在线JSON校验格式化工具（http://www.bejson.com/）：不但有JSON格式化，还有JS、HTML等，很多便利的小工具。
-     ◆　开源中国的在线代码格式化工具（http://tool.oschina.net/codeformat/js/）：支持JS、HTML、XML、CSS、JSON、SQL、Java等。它旗
-        下的码云（https://gitee.com/）相当不错，是GitHub之外的另一个代码托管平台。
+     ◆　开源中国的在线代码格式化工具（http://tool.oschina.net/codeformat/js/）：支持JS、HTML、XML、CSS、JSON、SQL、Java等。
+        它旗下的码云（https://gitee.com/）相当不错，是GitHub之外的另一个代码托管平台。
         
  ### 在线教育平台
-     ◆　CSDN学院（https://edu.csdn.net/）：CSDN旗下的学院，主要针对开发者，有大量专业的收费视频课程，讲师多是一线开发者。我个人有一些
-        视频课程放在这里。
-     ◆　GitChat（https://gitbook.cn/）：CSDN旗下的在线教育网站，以图文教程为主，分Chat和达人课两类，可在微信中使用，适合碎片化场景学
-        习，也可以在PC上使用。我有几个Chat和一个达人课在这里，感兴趣的可以看看我的“程序员职场进阶32讲”
+     ◆　CSDN学院（https://edu.csdn.net/）：CSDN旗下的学院，主要针对开发者，有大量专业的收费视频课程，讲师多是一线开发者。我个人有
+        一些视频课程放在这里。
+     ◆　GitChat（https://gitbook.cn/）：CSDN旗下的在线教育网站，以图文教程为主，分Chat和达人课两类，可在微信中使用，适合碎片化场
+        景学习，也可以在PC上使用。我有几个Chat和一个达人课在这里，感兴趣的可以看看我的“程序员职场进阶32讲”
         （https://gitbook.cn/gitchat/column/5aeab69b4eb5f845a07695e8）。
-     ◆　知乎Live（https://www.zhihu.com/lives）：知乎的专业语音直播平台，覆盖三百六十行，有不少IT领域的Live小讲，还有不少职场技能的，
-        适合碎片化场景学习。我在这里有20多个Live，感兴趣的可以看这里—“安晓辉的知乎Live小讲”
+     ◆　知乎Live（https://www.zhihu.com/lives）：知乎的专业语音直播平台，覆盖三百六十行，有不少IT领域的Live小讲，还有不少职场技
+        能的，适合碎片化场景学习。我在这里有20多个Live，感兴趣的可以看这里—“安晓辉的知乎Live小讲”
         （https://www.zhihu.com/lives/users/f33e4e299ef5fcc7d792adb333671cfa）。
      ◆　51CTO学院（http://edu.51cto.com/）：51CTO旗下的学院，覆盖IT各领域。我的一部分视频课程也放在这里。
      ◆　网易云课堂（https://study.163.com/）：网易旗下的综合型职业课堂，有IT技术的，也有其他职业的，相当不错。
@@ -217,8 +217,8 @@
      ◆　麦子学院（http://www.maiziedu.com/）：专业的IT职业教育网站。
      ◆　极客学院（https://www.jikexueyuan.com/）：专业的IT职业教育网站。
      ◆　慕课网（https://www.imooc.com/）：程序员的“梦工厂”，有大量视频课程，覆盖各种技术栈。
-     ◆　极客时间（https://time.geekbang.org/）：极客邦旗下的在线教育平台，针对互联网人群，课程相对专业和高端。有极客时间APP，酷壳的陈
-        皓在这里有一个“左耳听风”专栏，非常棒。
+     ◆　极客时间（https://time.geekbang.org/）：极客邦旗下的在线教育平台，针对互联网人群，课程相对专业和高端。有极客时间APP，酷壳
+        的陈皓在这里有一个“左耳听风”专栏，非常棒。
      ◆　腾讯课堂（https://ke.qq.com/）：专业的在线教育平台，涵盖各行各业，但IT互联网占比很大。
      ◆　淘宝教育（https://xue.taobao.com/）：综合性的在线教育平台，有一部分IT类视频课程。
      ◆　AI大学（https://www.aidaxue.com/）：科大讯飞打造的面向AI的在线学习平台，有很多不错的公开课和AI专业课程。
@@ -235,8 +235,8 @@
      ④ 100offer（https://cn.100offer.com/）：高端互联网人才招聘网站，特色是竞拍模式，你提交简历，100个匹配需求方来竞拍你。
      ⑤ 猎聘网（https://www.liepin.com/）：精英职业发展平台，相对高端。
      ⑥ 领英（http://www.linkedin.com）：相对高端的社交招聘平台。
-     ⑦ BOSS直聘（https://www.zhipin.com/）：互联网招聘神器，有网站和手机APP。特色是老板直招，可以和需求方在线沟通。实际上，与你聊天
-       的多数不是老板。
+     ⑦ BOSS直聘（https://www.zhipin.com/）：互联网招聘神器，有网站和手机APP。特色是老板直招，可以和需求方在线沟通。实际上，与你
+        聊天的多数不是老板。
      ⑧　哪上班（https://www.nashangban.com/）：高质量互联网人才招聘平台。
      ⑨　脉脉（http://maimai.cn）：职场社交网站，有网站和手机APP。匿名小道消息横飞之地，具有招聘功能。
      ⑩　简寻（https://jianxun.io/）：智能招聘解决方案提供商，号称是AI+招聘。
@@ -291,8 +291,8 @@
      ◆　《开发故事创意》（迈克尔·拉毕格）。
      
  ### 读后感
-     工作中除了看一些技术方面的书，还需要了解职场上需要注意的一些细节；平时多看看这些类型的书对提升技术广度及未来技术发展中遇到的瓶颈还是
-     比较有帮助的。
+     工作中除了看一些技术方面的书，还需要了解职场上需要注意的一些细节；平时多看看这些类型的书对提升技术广度及未来技术发展中遇到的瓶颈
+     还是比较有帮助的。
      
        
 > reubenwang@foxmail.com
