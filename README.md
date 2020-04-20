@@ -66,6 +66,8 @@
   
   - [《大话程序员:从入门到优秀全攻略》](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/BigTalkProgrammer.md)
 
+  - [《利用Python进行数据分析(原书第二版)》-更新中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/DataAnalysisUsingPython.md)
+  
 ### 联系
 
 > reubenwang@foxmail.com
