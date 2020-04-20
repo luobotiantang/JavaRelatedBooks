@@ -60,13 +60,13 @@
 
 ### 2020年读过的书
 
-  - [《Elasticsearch技术解析与实战》-更新中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/Elasticsearch.md)
+  - [《Elasticsearch技术解析与实战》-在读-更新中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/Elasticsearch.md)
   
   - [《程序员的自我修养》](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/ProgrammerSelfCultivation.md)
   
   - [《大话程序员:从入门到优秀全攻略》](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/BigTalkProgrammer.md)
 
-  - [《利用Python进行数据分析(原书第二版)》-更新中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/DataAnalysisUsingPython.md)
+  - [《利用Python进行数据分析(原书第二版)》-在读-更新中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/DataAnalysisUsingPython.md)
   
 ### 联系
 
