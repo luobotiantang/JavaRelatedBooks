@@ -69,6 +69,8 @@
 
   - [《利用Python进行数据分析(原书第二版)》-在读-更新中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/DataAnalysisUsingPython.md)
   
+  - [《Scala实用指南》-在读-更新中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/ScalaPracticalGuide.md)
+  
 ### 联系
 
 > reubenwang@foxmail.com
