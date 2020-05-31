@@ -71,6 +71,8 @@
   
   - [《Scala实用指南》-在读-更新中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/ScalaPracticalGuide.md)
   
+  - [《这就是搜索引擎核心技术详解》-在读-更新中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/ThisIsTheSearchEngineCoreTechnology.md)
+  
 ### 联系
 
 > reubenwang@foxmail.com
